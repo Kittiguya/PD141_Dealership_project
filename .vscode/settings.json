@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "postgres://byulhkfw:0WUod0LFquuI6UgLEl_1beBmf-7hyGiE@ziggy.db.elephantsql.com/byulhkfw",
+            "driver": "PostgreSQL",
+            "name": "dealership",
+            "database": "test_db",
+            "password": "0WUod0LFquuI6UgLEl_1beBmf-7hyGiE",
+            "username": "postgres",
+            "connectString": "postgres://byulhkfw:0WUod0LFquuI6UgLEl_1beBmf-7hyGiE@ziggy.db.elephantsql.com/byulhkfw"
+        }
+    ]
+}
